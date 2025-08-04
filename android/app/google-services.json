@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873171961455",
+    "project_id": "perfumestore-6a91d",
+    "storage_bucket": "perfumestore-6a91d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873171961455:android:4c80499c7ddd6104ccaf9a",
+        "android_client_info": {
+          "package_name": "com.creator.perfume_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcO7wQfmYk3OxAczjGEmJq_OMtZlssfzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
